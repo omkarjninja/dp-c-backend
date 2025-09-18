@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+# Logs
+logs
+*.log
+logs/
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Coverage/testing
+coverage/
+.nyc_output/
+jest-html-reporters-*.html
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+tmp/
+*.tmp
